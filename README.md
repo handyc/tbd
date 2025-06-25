@@ -1,7 +1,10 @@
 # To Be Determined
 # (tbd)
-command line task management solution
+command line event scheduling solution
 
+# asynchronic event scheduling
+
+# tbd
 
 (thanks to mattf for this repo name)
 https://github.com/matheusfillipe
